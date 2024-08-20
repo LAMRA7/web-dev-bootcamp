@@ -4,9 +4,7 @@
  <img src="assets/course-image.png" alt="Web Developer Bootcamp with Flask and Python (Udemy banner image)"></a>
 </p>
 
-<div align="center">
-
-[![Udemy rating 4.6/5](https://img.shields.io/badge/udemy-4.6%2F5-brightgreen)](https://go.tecla.do/web-dev-course-sale) ![GitHub last commit](https://img.shields.io/github/last-commit/tecladocode/python-web-2020) ![Python 3.10](https://img.shields.io/badge/python-3.10-yellow) [![Discord](https://img.shields.io/discord/614395983807250433)](https://discord.gg/78Nvd3p) [![Twitter Follow](https://img.shields.io/twitter/follow/jslvtr?style=social) ](https://twitter.com/jslvtr)
+<div 
 
 </div>
 
