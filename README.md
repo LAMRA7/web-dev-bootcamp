@@ -1,7 +1,9 @@
 # Web Developer Bootcamp with Flask and Python
 
 <p align="center">
- <img src=""https://raw.githubusercontent.com/Lamra7/<REPOSITORY_NAME>/main/myphoto.jpg" alt="Lamrath CA" width="300">](https://lamra.in)"></a>
+  <a href="https://lamra.in">
+    <img src="https://raw.githubusercontent.com/Lamra7/web-dev-bootcamp/main/myphoto.jpg" alt="Lamrath CA" width="300">
+  </a>
 </p>
 
 <div 
