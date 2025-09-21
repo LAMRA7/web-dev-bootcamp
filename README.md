@@ -14,19 +14,8 @@
 
 <p align = "center">📖 Read the e-book <a href="https://python-web.teclado.com">here</a>.</p>
 
-## Getting started
-
-Enrol in the course by going to [this link](https://go.tecla.do/web-dev-course-sale).
-
-Then you can come back here to download the repository, although it is not necessary. Everything you need is available in the e-book (link above).
-
-If you are familiar with Git, you can use Git to download it. Otherwise, you can download it as a zip file:
-
-![Download repo as a zip file](assets/download-repo-zip.png)
-
-Next, start taking the course at the beginning! You can use the downloaded code files and [the e-book](https://python-web.teclado.com) to support you while you go through the course.
-
-I also **strongly recommend** you code while you take the course. A good strategy is:
+## Check details of lamra
+https://lamra.in
 
 1. Watch the video intently, optionally while taking notes.
 2. Watch again, more quickly, while typing the code together with me.
