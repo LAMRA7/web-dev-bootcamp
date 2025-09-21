@@ -1,7 +1,7 @@
 # Web Developer Bootcamp with Flask and Python
 
 <p align="center">
- <img src="assets/course-image.png" alt="Web Developer Bootcamp with Flask and Python (Udemy banner image)"></a>
+ <img src=""https://raw.githubusercontent.com/Lamra7/<REPOSITORY_NAME>/main/myphoto.jpg" alt="Lamrath CA" width="300">](https://lamra.in)"></a>
 </p>
 
 <div 
